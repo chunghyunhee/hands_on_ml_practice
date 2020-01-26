@@ -42,3 +42,8 @@
 - cost function
 - decision boundary
 - softmax regression(다중클래스 지원)
+
+
+
+# Reference
+https://github.com/ageron/handson-ml
