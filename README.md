@@ -1,5 +1,5 @@
 # hands on machine learning
-![image.png](attachment:image.png)
+![book](attachment:image.png)
 ## chapter02. 머신러닝 프로젝트 처음부터 끝까지
 
 1. 실제 데이터 작업하기 
