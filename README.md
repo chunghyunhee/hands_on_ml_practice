@@ -43,7 +43,15 @@
 - decision boundary
 - softmax regression(다중클래스 지원)
 
-
+## chapter05. SVM
+1. 선형SVM분류
+ - 소프트마진 분류(=비분리 SVM)
+ - 하드마진 분류(=분리 SVM)
+2. 비선형 SVM 분류
+ - 커널법을 사용한 비선형 SVM
+ - 가우시안 RBF
+3. SVM 회귀
+4. SVM 이론
 
 # Reference
 https://github.com/ageron/handson-ml <br>
