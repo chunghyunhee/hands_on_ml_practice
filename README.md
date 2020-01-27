@@ -1,6 +1,20 @@
 # hands on machine learning
+2020 상반기 진행하는 group stduy
 
-## chapter02. 머신러닝 프로젝트 처음부터 끝까지
+## 날짜 및 장소
+매주 수, 토 오전 11시, 스터디룸, 분석실
+
+## 목적
+수리통계학, 회귀분석, 표본론, 응용확률론 등 통계학을 기반으로 다양한 machine learning 모델을 이해하고
+모델링을 해보기 위한 공부를 진행함. 최종적으로 실제 데이터를 바탕으로 한 프로젝트를 완성하는 것을 목표로
+진행하고, 이론은 논문을 통한 구현으로 함께 이해한다. 
+
+## 주교재 
+hands on machine learing - Orelly
+
+---
+## context
+### chapter02. 머신러닝 프로젝트 처음부터 끝까지
 
 1. 실제 데이터 작업하기 
 2. 큰 그림 보기(성능지표, 가정검색)
@@ -10,7 +24,7 @@
 6. 모델 선택과 훈련방법
 7. 세부 튜닝방법
 
-## chapter03. 분류
+### chapter03. 분류
 1. MNIST dataset활용
 2. 이진분류기 훈련
 3. 성능측정
@@ -20,7 +34,7 @@
 7. 다중 출력분류
 
 
-## chapter04. 모델훈련
+### chapter04. 모델훈련
 1. 선형회귀
 - 회귀 모델 min{J(theta)}계산방법
 - 계산복잡도 비교
@@ -43,16 +57,21 @@
 - decision boundary
 - softmax regression(다중클래스 지원)
 
-## chapter05. SVM
+### chapter05. SVM
 1. 선형SVM분류
  - 소프트마진 분류(=비분리 SVM)
  - 하드마진 분류(=분리 SVM)
 2. 비선형 SVM 분류
  - 커널법을 사용한 비선형 SVM
- - 가우시안 RBF
 3. SVM 회귀
+ - 선형 SVM회귀
+ - 비선형 SVM회귀
 4. SVM 이론
+ - 분류기, 회귀, 온라인 SVM
 
 # Reference
 https://github.com/ageron/handson-ml <br>
-https://1ambda.github.io/data-analysis/
+https://1ambda.github.io/data-analysis/ <br>
+http://www.riss.kr.proxy.cau.ac.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=8acda0de8560581bffe0bdc3ef48d419
+
+
