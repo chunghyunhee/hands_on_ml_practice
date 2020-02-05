@@ -71,6 +71,30 @@ hands on machine learing - Orelly
 4. SVM 이론
  - 분류기, 회귀, 온라인 SVM
 
+### chapter06. 결정트리
+1. 결정트리 학습과 시각화
+2. 예측하기(결정트리 결과 해석 방법, 의미하는바)
+3. 클래스 확률 추정
+4. CART 훈련 알고리즘
+5. 계산 복잡도
+6. 지니 불순도 or 엔트로피
+7. 규제 매개변수
+8. 회귀
+9. 불안정성
+
+### chapter07. 앙상블 학습과 랜덤 포레스트
+1. 투표기반 분류기(voting)
+2. 배깅과 페이스팅(bagging)
+3. 랜덤패치와 랜덤 서브스페이스 : 특성 샘플링
+4. 랜덤포레스트 : 결정트리를 배깅방식으로 앙상블 학습
+ - 엑스트라트리 : 무작위성 강화
+ - 특성 중요도 : 오버피팅을 줄이는 하나의 방법
+5. 부스팅
+ - Adaboosting : 오차에 가중치를 부여하여 강분류기 만든다
+ - Gradient Boosting : 잔여오차를 하나의 분류기로 (따로) 학습시켜 오차를 줄이는 강분류기 방식
+6. 스태킹
+
+
 # Reference
 https://github.com/ageron/handson-ml <br>
 https://1ambda.github.io/data-analysis/ <br>
